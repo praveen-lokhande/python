@@ -1,9 +1,6 @@
-print("Enter first number")
-var1=int(input())
-print("Enter second number")
-var2=int(input())
-print("enter a operator[+,-,*,/]")
-operation=input()
+var1=int(input("Enter first number\n"))
+var2=int(input("Enter second number\n"))
+operation=input("Enter a operator\n")
 if (var1==56 and var2==9 and operation=="+"):
     print("77")
 elif (var1 == 45 and var2 == 3 and operation=="*"):
