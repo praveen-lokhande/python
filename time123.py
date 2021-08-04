@@ -13,4 +13,3 @@ while(k<10):
 # print(f"for loop ran in {time.time()}-{initial2}
 
 print(time.asctime(time.localtime()))
-time.
